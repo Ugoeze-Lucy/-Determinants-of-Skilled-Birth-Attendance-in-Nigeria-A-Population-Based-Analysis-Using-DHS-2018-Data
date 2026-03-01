@@ -19,10 +19,7 @@
 - [Methods](#methods)
 - [Results](#results)
 - [Visualizations](#visualizations)
-- [Technical Implementation](#technical-implementation)
-- [Reproducibility](#reproducibility)
 - [Limitations](#limitations)
-- [Future Work](#future-work)
 - [References](#references)
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
@@ -430,6 +427,7 @@ United Nations. 2015. Transforming our world: the 2030 Agenda for Sustainable De
 Say L, Chou D, Gemmill A, et al. 2014. Global causes of maternal death: a WHO systematic analysis. Lancet Global Health 2(6):e323-e333.
 
 
+
 📧 Contact
 [Ugoeze Lucy Unegbu]
 MSc Medical Statistics & Epidemiology
@@ -443,16 +441,22 @@ Collaborations on health data projects
 Research partnerships (maternal/child health)
 Speaking opportunities (conferences, meetups)
 
+
+
 🤝 Acknowledgments
 The DHS Program for making high-quality survey data publicly accessible
 National Population Commission (Nigeria) for conducting the 2018 NDHS
 ICF for technical support and data dissemination
 Open-source community for the excellent Python data science ecosystem
 
+
+
 📜 License
 This project is licensed under the MIT License — see LICENSE file for details.
 Data Usage:
 DHS data is used in accordance with DHS Program data usage terms. Users must register independently at dhsprogram.com to access the dataset.
+
+
 
 ⭐ Citation
 If you use this analysis in your work, please cite as:
@@ -464,6 +468,8 @@ If you use this analysis in your work, please cite as:
   publisher = {GitHub},
   url = {https://github.com/Ugoeze-Lucy/-Determinants-of-Skilled-Birth-Attendance-in-Nigeria-A-Population-Based-Analysis-Using-DHS-2018-Data/edit/main/README.md}
 }
+
+
 
 🌟 Support This Work
 If you found this analysis useful:
