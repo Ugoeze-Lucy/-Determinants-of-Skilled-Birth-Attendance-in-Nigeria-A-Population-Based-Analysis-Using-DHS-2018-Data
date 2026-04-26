@@ -6,6 +6,7 @@
 [![DHS](https://img.shields.io/badge/Data-DHS%202018-green.svg)](https://dhsprogram.com/)
 [![Status](https://img.shields.io/badge/Status-Complete-success.svg)]()
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+DOI: 10.64898/2026.04.23.26350432
 
 
 ---
